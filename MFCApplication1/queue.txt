@@ -1,0 +1,178 @@
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     0     0     
+  Queue contents : Front ----> Rear
+0     0     
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+0     
+  Queue contents : Front ----> Rear
+0     232   
+  Queue contents : Front ----> Rear
+0     232   107   
+  Queue contents : Front ----> Rear
+232   107   
+  Queue contents : Front ----> Rear
+107   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+333   
+  Queue contents : Front ----> Rear
+333   480   
+  Queue contents : Front ----> Rear
+333   480   642   
+  Queue contents : Front ----> Rear
+480   642   
+  Queue contents : Front ----> Rear
+642   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+617   
+  Queue contents : Front ----> Rear
+617   514   
+  Queue contents : Front ----> Rear
+617   514   547   
+  Queue contents : Front ----> Rear
+514   547   
+  Queue contents : Front ----> Rear
+547   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+450   
+  Queue contents : Front ----> Rear
+450   521   
+  Queue contents : Front ----> Rear
+450   521   381   
+  Queue contents : Front ----> Rear
+521   381   
+  Queue contents : Front ----> Rear
+381   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+505   
+  Queue contents : Front ----> Rear
+505   361   
+  Queue contents : Front ----> Rear
+505   361   487   
+  Queue contents : Front ----> Rear
+361   487   
+  Queue contents : Front ----> Rear
+487   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+470   
+  Queue contents : Front ----> Rear
+470   523   
+  Queue contents : Front ----> Rear
+470   523   551   
+  Queue contents : Front ----> Rear
+523   551   
+  Queue contents : Front ----> Rear
+551   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+585   
+  Queue contents : Front ----> Rear
+585   554   
+  Queue contents : Front ----> Rear
+585   554   549   
+  Queue contents : Front ----> Rear
+554   549   
+  Queue contents : Front ----> Rear

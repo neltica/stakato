@@ -1,0 +1,120 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++에서 생성한 포함 파일입니다.
+// MFCApplication1.rc에서 사용되고 있습니다.
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDD_MFCAPPLICATION1_FORM        101
+#define IDR_MAINFRAME                   128
+#define IDR_MFCApplication1TYPE         130
+#define IDD_DIALOG1                     310
+#define IDB_BITMAP1                     311
+#define IDB_BITMAP2                     312
+#define IDB_BITMAP3                     313
+#define IDB_BITMAP4                     314
+#define IDB_BITMAP5                     315
+#define IDI_ICON1                       316
+#define IDB_BITMAP6                     317
+#define IDB_BITMAP7                     318
+#define ConnectD                        319
+#define ConnectU                        320
+#define DisconnectD                     321
+#define DisconnectU                     322
+#define OpenD                           323
+#define OpenU                           324
+#define IDC_SLIDER1                     1000
+#define IDC_SLIDER2                     1001
+#define IDC_SLIDER3                     1002
+#define IDC_SLIDER4                     1003
+#define IDC_SLIDER5                     1004
+#define IDC_SLIDER6                     1005
+#define IDC_PICTURE                     1006
+#define IDC_SLIDER26                    1006
+#define IDC_CHECK1                      1007
+#define IDC_SLIDER27                    1007
+#define IDC_SLIDER7                     1008
+#define IDC_BUTTON1                     1009
+#define IDC_SLIDER28                    1009
+#define IDC_BUTTON2                     1010
+#define IDC_SLIDER29                    1010
+#define IDC_EDIT1                       1011
+#define IDC_SLIDER30                    1011
+#define IDC_EDIT2                       1012
+#define IDC_SLIDER31                    1012
+#define IDC_EDIT3                       1013
+#define IDC_SLIDER32                    1013
+#define IDC_SLIDER8                     1014
+#define IDC_SLIDER9                     1015
+#define IDC_SLIDER33                    1015
+#define IDC_SLIDER10                    1016
+#define IDC_SLIDER34                    1016
+#define IDC_SLIDER11                    1017
+#define IDC_SLIDER35                    1017
+#define IDC_SLIDER12                    1018
+#define IDC_SLIDER13                    1019
+#define IDC_CHECK2                      1020
+#define IDC_CHECK3                      1021
+#define IDC_SLIDER14                    1021
+#define IDC_CHECK4                      1022
+#define IDC_CHECK5                      1023
+#define IDC_EDIT4                       1024
+#define IDC_EDIT5                       1025
+#define IDC_EDIT6                       1026
+#define IDC_EDIT7                       1027
+#define IDC_EDIT8                       1028
+#define IDC_EDIT9                       1029
+#define IDC_SLIDER15                    1030
+#define IDC_EDIT22                      1030
+#define IDC_SLIDER16                    1031
+#define IDC_EDIT23                      1031
+#define IDC_SLIDER17                    1032
+#define IDC_EDIT24                      1032
+#define IDC_SLIDER18                    1033
+#define IDC_EDIT25                      1033
+#define IDC_SLIDER19                    1034
+#define IDC_EDIT26                      1034
+#define IDC_EDIT10                      1035
+#define IDC_EDIT11                      1036
+#define IDC_EDIT27                      1036
+#define IDC_EDIT12                      1037
+#define IDC_EDIT28                      1037
+#define IDC_EDIT13                      1038
+#define IDC_EDIT29                      1038
+#define IDC_EDIT14                      1039
+#define IDC_EDIT30                      1039
+#define IDC_EDIT15                      1040
+#define IDC_EDIT31                      1040
+#define IDC_SLIDER20                    1041
+#define IDC_EDIT32                      1041
+#define IDC_SLIDER21                    1042
+#define IDC_SLIDER22                    1043
+#define IDC_SLIDER23                    1044
+#define IDC_SLIDER24                    1045
+#define IDC_SLIDER25                    1046
+#define IDC_EDIT16                      1047
+#define IDC_EDIT17                      1048
+#define IDC_EDIT18                      1049
+#define IDC_EDIT19                      1050
+#define IDC_EDIT20                      1051
+#define IDC_EDIT21                      1052
+#define IDC_BUTTON3                     1053
+#define IDC_BUTTON4                     1054
+#define IDC_BUTTON5                     1055
+#define IDC_BUTTON6                     1056
+#define IDC_BUTTON7                     1057
+#define IDC_BUTTON8                     1058
+#define IDC_x                           1060
+#define IDC_y                           1061
+#define IDC_BUTTON9                     1062
+#define IDC_SPOT                        1063
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        326
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1064
+#define _APS_NEXT_SYMED_VALUE           310
+#endif
+#endif

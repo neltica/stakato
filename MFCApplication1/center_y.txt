@@ -1,0 +1,178 @@
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   119   119   
+  Queue contents : Front ----> Rear
+119   119   
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+119   
+  Queue contents : Front ----> Rear
+119   39    
+  Queue contents : Front ----> Rear
+119   39    91    
+  Queue contents : Front ----> Rear
+39    91    
+  Queue contents : Front ----> Rear
+91    
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+203   
+  Queue contents : Front ----> Rear
+203   194   
+  Queue contents : Front ----> Rear
+203   194   149   
+  Queue contents : Front ----> Rear
+194   149   
+  Queue contents : Front ----> Rear
+149   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+150   
+  Queue contents : Front ----> Rear
+150   157   
+  Queue contents : Front ----> Rear
+150   157   177   
+  Queue contents : Front ----> Rear
+157   177   
+  Queue contents : Front ----> Rear
+177   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+139   
+  Queue contents : Front ----> Rear
+139   177   
+  Queue contents : Front ----> Rear
+139   177   177   
+  Queue contents : Front ----> Rear
+177   177   
+  Queue contents : Front ----> Rear
+177   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+177   
+  Queue contents : Front ----> Rear
+177   177   
+  Queue contents : Front ----> Rear
+177   177   177   
+  Queue contents : Front ----> Rear
+177   177   
+  Queue contents : Front ----> Rear
+177   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+178   
+  Queue contents : Front ----> Rear
+178   178   
+  Queue contents : Front ----> Rear
+178   178   178   
+  Queue contents : Front ----> Rear
+178   178   
+  Queue contents : Front ----> Rear
+178   
+  Queue contents : Front ----> Rear
+
+  Queue contents : Front ----> Rear
+178   
+  Queue contents : Front ----> Rear
+178   178   
+  Queue contents : Front ----> Rear
+178   178   178   
+  Queue contents : Front ----> Rear
+178   178   
+  Queue contents : Front ----> Rear
